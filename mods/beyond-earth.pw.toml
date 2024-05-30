@@ -1,0 +1,13 @@
+name = "Beyond Earth (Forge)"
+filename = "Beyond-Earth-1.20.1-7.0-PRERELEASE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xSfkjdDu/versions/NVCE3ueP/Beyond-Earth-1.20.1-7.0-PRERELEASE.jar"
+hash-format = "sha1"
+hash = "1141af70aa32f082aa98db9a9249fd2b91b3ccfb"
+
+[update]
+[update.modrinth]
+mod-id = "xSfkjdDu"
+version = "NVCE3ueP"

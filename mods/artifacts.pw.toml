@@ -1,0 +1,13 @@
+name = "Artifacts"
+filename = "artifacts-forge-9.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/X4J7A9Jl/artifacts-forge-9.5.7.jar"
+hash-format = "sha1"
+hash = "e70d48ba650cc62d1aeddee50ed32eaed452d25c"
+
+[update]
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "X4J7A9Jl"

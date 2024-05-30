@@ -1,15 +1,3 @@
-# Magical Relics Modpack
-
-This repository contains the packwiz for the Magical Relics Minecraft modpack.
-
-## Installation instructions
-
-tbd
-
-## Mods
-
-### Exploration
-
 https://modrinth.com/mod/aether
 https://modrinth.com/mod/beyond-earth
 https://modrinth.com/mod/alexs-caves
@@ -17,11 +5,6 @@ https://modrinth.com/mod/dungeon-now-loading
 https://modrinth.com/mod/the-undergarden
 https://modrinth.com/mod/artifacts
 https://modrinth.com/mod/blue-skies
-
-https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
-
-## Create
-
 https://modrinth.com/mod/create
 https://modrinth.com/mod/create-clockwork
 https://modrinth.com/mod/interactive
@@ -72,31 +55,19 @@ https://modrinth.com/mod/create_oxidized
 https://modrinth.com/mod/create-more-automation
 https://modrinth.com/mod/create-railways-navigator
 https://modrinth.com/mod/create-train-perspective-fix
-
-## Tech
-
 https://modrinth.com/mod/cc-tweaked
 https://modrinth.com/mod/trash-cans
-
-## Magic
-
 https://modrinth.com/mod/ars-nouveau
 https://modrinth.com/mod/blood-magic
 https://modrinth.com/mod/occultism
 https://modrinth.com/mod/mahou-tsukai
 https://modrinth.com/mod/mystical-agriculture
-
-## Better Vanilla
-
 https://modrinth.com/mod/quark
 https://modrinth.com/mod/chisel-reborn
-https://modrinth.com/mod/physicsmod -> Annoying?
 https://modrinth.com/mod/sound-physics-remastered
 https://modrinth.com/mod/distanthorizons
-https://modrinth.com/mod/bridging-mod -> Might be included in Quark?
 https://modrinth.com/mod/travelersbackpack
 https://modrinth.com/mod/ambientsounds
-https://modrinth.com/datapack/dynamic-lights -> Server Side? Not my favorite, as it can break redstone with invisible Light blocks.
 https://modrinth.com/plugin/simple-voice-chat
 https://modrinth.com/mod/moving-elevators
 https://modrinth.com/mod/rei
@@ -113,8 +84,6 @@ https://modrinth.com/mod/xaeros-world-map
 https://modrinth.com/mod/xaeros-minimap-world-map-waystones-compatibility-forge
 https://modrinth.com/mod/supplementaries
 https://modrinth.com/mod/mouse-tweaks
-
-
 https://modrinth.com/mod/macaws-fences-and-walls
 https://modrinth.com/mod/macaws-windows
 https://modrinth.com/mod/macaws-furniture
@@ -126,7 +95,6 @@ https://modrinth.com/mod/macaws-bridges
 https://modrinth.com/mod/macaws-paintings
 https://modrinth.com/mod/macaws-lights-and-lamps
 https://modrinth.com/mod/macaws-holidays
-
 https://modrinth.com/mod/yungs-api
 https://modrinth.com/mod/yungs-better-dungeons
 https://modrinth.com/mod/yungs-better-mineshafts
@@ -141,7 +109,6 @@ https://modrinth.com/mod/yungs-bridges
 https://modrinth.com/mod/yungs-extras
 https://modrinth.com/mod/travelers-titles
 https://modrinth.com/mod/yungs-menu-tweaks
-
 https://modrinth.com/mod/3dskinlayers
 https://modrinth.com/mod/betterf3
 https://modrinth.com/mod/boat-item-view
@@ -149,36 +116,18 @@ https://modrinth.com/mod/collective
 https://modrinth.com/mod/double-doors
 https://modrinth.com/mod/item-highlighter
 https://modrinth.com/mod/friends-and-foes-forge
-
 https://modrinth.com/mod/mcr_blahaj
 https://modrinth.com/mod/alexs-mobs
 https://modrinth.com/mod/more-mob-variants
 https://modrinth.com/mod/mavm
-
 https://modrinth.com/mod/natures-compass
 https://modrinth.com/mod/explorers-compass
-
-## Admin
-
 https://modrinth.com/plugin/chunky
-https://modrinth.com/mod/simple-backups or https://modrinth.com/mod/fastback
-
-## VR
-
+https://modrinth.com/mod/simple-backups
 https://modrinth.com/mod/vivecraft
 https://modrinth.com/mod/vivecraft-compat
 https://modrinth.com/mod/immersivemc
-
-## Biomes
-
-https://modrinth.com/mod/biomes-o-plenty -> Maybe not?
-
 https://modrinth.com/datapack/tectonic
 https://modrinth.com/mod/terralith
 https://modrinth.com/mod/incendium
 https://modrinth.com/mod/nullscape
-
-## Outdated
-
-https://modrinth.com/mod/mystcraft -> Old
-https://modrinth.com/mod/better-nether-beta -> Old

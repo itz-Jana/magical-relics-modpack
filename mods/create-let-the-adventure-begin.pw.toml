@@ -1,0 +1,13 @@
+name = "Create: Let The Adventure Begin"
+filename = "create_let_the_adventure_begin_forge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/t6dKdbhL/create_let_the_adventure_begin_forge-1.0.1.jar"
+hash-format = "sha1"
+hash = "9fb5ea27bb548aabd458808c6769700db6707ce3"
+
+[update]
+[update.modrinth]
+mod-id = "fUa6OtBG"
+version = "t6dKdbhL"

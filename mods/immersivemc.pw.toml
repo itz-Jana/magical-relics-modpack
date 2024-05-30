@@ -1,0 +1,13 @@
+name = "ImmersiveMC"
+filename = "immersivemc-1.5.0-beta1-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XJ9is6vj/versions/ibM4ZHlR/immersivemc-1.5.0-beta1-1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "600414d6e0a0ab7393e999f4a274cb53d741706e"
+
+[update]
+[update.modrinth]
+mod-id = "XJ9is6vj"
+version = "ibM4ZHlR"
