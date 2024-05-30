@@ -131,3 +131,4 @@ https://modrinth.com/datapack/tectonic
 https://modrinth.com/mod/terralith
 https://modrinth.com/mod/incendium
 https://modrinth.com/mod/nullscape
+https://modrinth.com/mod/smartbrainlib

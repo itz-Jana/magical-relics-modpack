@@ -83,6 +83,7 @@ https://modrinth.com/mod/trash-cans
 https://modrinth.com/mod/ars-nouveau
 https://modrinth.com/mod/blood-magic
 https://modrinth.com/mod/occultism
+https://modrinth.com/mod/smartbrainlib
 https://modrinth.com/mod/mahou-tsukai
 https://modrinth.com/mod/mystical-agriculture
 
