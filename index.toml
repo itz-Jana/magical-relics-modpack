@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "48e47e8aefc96b61d33859ca5f74c9415e06247d89d1d9b8cbfbcd43e2217573"
+
+[[files]]
+file = "mods.txt"
+hash = "b58ba7d6e68c16057c373074378a31de3553f49db40363aa796bf55447293c87"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9091ac09b5c7cfb9472940dbcdfdf764d1f903495171dd4b4cd566eb83d8a40b"
 metafile = true
@@ -158,11 +166,6 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "dc9b6077e233adda9597eb5dc7a07921125f834e54c2970038501bd5cfb60235"
-metafile = true
-
-[[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "94714097a323468448daf3ad97cbec4a8e145ddc6e58081b9fcb0ca53be71df1"
 metafile = true
 
 [[files]]
@@ -558,11 +561,6 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "3289e98ddd0f9804882a8893fae99f34907b0cdf2a16ab441d925d0321318fe6"
-metafile = true
-
-[[files]]
-file = "mods/occultism.pw.toml"
-hash = "baf5976104fb15d97a271e32cc02f3ab9ad2ba1f29151bdb3cac9e99286f3eac"
 metafile = true
 
 [[files]]
