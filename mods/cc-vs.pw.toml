@@ -3,11 +3,11 @@ filename = "cc_vs-1.20.1-forge-0.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bvgy8HrZ/versions/YeWZVaWn/cc_vs-1.20.1-forge-0.1.0.jar"
+url = "https://cdn.modrinth.com/data/bvgy8HrZ/versions/9BQnBIY9/cc_vs-1.20.1-forge-0.1.0.jar"
 hash-format = "sha1"
 hash = "8898beb860d41060059616a1528ae713c5643f49"
 
 [update]
 [update.modrinth]
 mod-id = "bvgy8HrZ"
-version = "YeWZVaWn"
+version = "9BQnBIY9"
