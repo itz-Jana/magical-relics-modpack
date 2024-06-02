@@ -1,0 +1,13 @@
+name = "Simple Zoom"
+filename = "simple_zoom-1.20.1-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ylWD7aoA/versions/QIW368nh/simple_zoom-1.20.1-1.0.jar"
+hash-format = "sha1"
+hash = "248858941def1e703e7c01e1e5b6e5ba575e50be"
+
+[update]
+[update.modrinth]
+mod-id = "ylWD7aoA"
+version = "QIW368nh"

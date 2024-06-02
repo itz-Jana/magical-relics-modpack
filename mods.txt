@@ -131,4 +131,11 @@ https://modrinth.com/datapack/tectonic
 https://modrinth.com/mod/terralith
 https://modrinth.com/mod/incendium
 https://modrinth.com/mod/nullscape
-https://modrinth.com/mod/smartbrainlib
+https://modrinth.com/mod/canary
+https://modrinth.com/mod/entityculling
+https://modrinth.com/mod/ferrite-core
+https://modrinth.com/mod/saturn
+https://modrinth.com/mod/embeddium
+https://modrinth.com/mod/rubidium-extra
+https://modrinth.com/mod/occlusion-culling-fix-sodium
+https://modrinth.com/mod/simple-zoom
