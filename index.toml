@@ -374,6 +374,11 @@ hash = "104c41bdffa7018ee788f6539e8f343e749a715160d6f5c3a9903c529497a6c8"
 metafile = true
 
 [[files]]
+file = "mods/dsbg.pw.toml"
+hash = "af92ed5470538054c627025f808800b58f4b2215b09e7a82956061906bcc2eda"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-now-loading.pw.toml"
 hash = "f5f292afe25b4212baf1bf7cf4a443f6e6b7481b82515b003e95d6d0009df891"
 metafile = true
