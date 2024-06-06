@@ -812,3 +812,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
+
+[[files]]
+file = "whitelist.txt"
+hash = "2de57359dc35be2501f406d7fa57094a2eb626eb6f86f83b8901b04130a7d54e"
