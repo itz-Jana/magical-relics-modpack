@@ -867,7 +867,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
-
-[[files]]
-file = "whitelist.txt"
-hash = "3e77ff29578ca84073e2ce82321b9d111d4bf20d3dbc041743c03162fdad8c06"
