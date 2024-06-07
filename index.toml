@@ -434,6 +434,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "7433e02661d3636e1845edf5a44d271712ed73b1035c32ecfe047452a6c39d79"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "1729d91efa70736b39cbfeab44c4c13141a6e3269a0aa21f32234bbc6aca8c8b"
 metafile = true
@@ -621,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "26ca76ce6d17ce793960ef92cf1933f0e2330a425ff4f048d7d094f2a133f508"
 metafile = true
 
 [[files]]
