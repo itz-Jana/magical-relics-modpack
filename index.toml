@@ -769,16 +769,6 @@ hash = "0328dcee3fced9edb7fe463b35624381fc94e09f6303a7cb1cdccb26747a130c"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-relogs.pw.toml"
-hash = "bda6f397804d69c55962f212a47c40dd4b45d787b81a8b7ae26a5fa3efbbf3bf"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
-metafile = true
-
-[[files]]
 file = "mods/vivecraft-compat.pw.toml"
 hash = "bd02b558dd4fde9dc27494b8bf34e3450cdcf550ad481dd2a758fe57cb23e103"
 metafile = true
