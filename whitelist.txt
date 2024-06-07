@@ -6,4 +6,4 @@ hannoctor
 jarmilla
 hei_heidi
 naoto_hachiouji
-voxelcat
+icosahedralcat
