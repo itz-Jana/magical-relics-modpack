@@ -394,6 +394,11 @@ hash = "f5f292afe25b4212baf1bf7cf4a443f6e6b7481b82515b003e95d6d0009df891"
 metafile = true
 
 [[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "fc4c3283c4f755eb185edf39a99af0114f0b165552e67f0ac1b83ada520c0081"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
 metafile = true
