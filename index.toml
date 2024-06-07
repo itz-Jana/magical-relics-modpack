@@ -509,8 +509,23 @@ hash = "b4d8f52ac3e7bee8de9dff18d5dda00b23ae3a118778ab374e036ffdffd13f20"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "ee7baa3b0002bf71882f5579ee94e97b7c63e41e2851394cc8ac17d2959e69d3"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "76ad5b491a38df4f6debfae8808cb455c9b7ecd6c039a814ce1639278ac1f86c"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "200f03de3e7604b4f18a98310d0fb94ec1266dd72f9874808eb1f9601114a8e6"
 metafile = true
 
 [[files]]
@@ -646,11 +661,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "e5b5a551515ed711ab492864b2ec56baa53796825f71dfe0f0b164271d3f725f"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "6069264d5bd6f36ac4818f64b19b0734dc36f31b694f09d13368c437529dcf2d"
 metafile = true
 
 [[files]]
