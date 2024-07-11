@@ -784,6 +784,16 @@ hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft-compat.pw.toml"
+hash = "bd02b558dd4fde9dc27494b8bf34e3450cdcf550ad481dd2a758fe57cb23e103"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "3945bee96f3f0d1df673104aa634840882e9e02f2b5495cf34a0e993a58dc818"
+metafile = true
+
+[[files]]
 file = "mods/waystones-teleport-pets.pw.toml"
 hash = "b73bb582ceb41035bca727eb0fd7c40c3605a59a19f1b69c076d1c1d4f75e147"
 metafile = true
