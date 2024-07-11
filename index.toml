@@ -494,11 +494,6 @@ hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
 metafile = true
 
 [[files]]
-file = "mods/immersivemc.pw.toml"
-hash = "9aeda384684800a24b8f3f817910dc82bbb54845762576b834b8b5ad16674596"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "3ca288e948a12a854c4d8e74dbf5e32302f41478b75f364709087709d66402de"
 metafile = true
