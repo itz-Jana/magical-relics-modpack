@@ -1,13 +1,13 @@
 name = "Create Railways Navigator"
-filename = "createrailwaysnavigator-forge-1.20.1-0.5.4.jar"
+filename = "createrailwaysnavigator-0.5.3-beta-1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dq3STxps/versions/dJMFMXMl/createrailwaysnavigator-forge-1.20.1-0.5.4.jar"
+url = "https://cdn.modrinth.com/data/Dq3STxps/versions/SncJ9EQt/createrailwaysnavigator-0.5.3-beta-1.20.1-forge.jar"
 hash-format = "sha1"
-hash = "583d0258e2d0a8e75ff88bbb293674c5cbf8512c"
+hash = "cd05d9c342b608016d7db5698f35ef569b41a035"
 
 [update]
 [update.modrinth]
 mod-id = "Dq3STxps"
-version = "dJMFMXMl"
+version = "SncJ9EQt"
